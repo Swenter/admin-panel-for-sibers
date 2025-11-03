@@ -51,8 +51,7 @@ Copy all files to your web server folder (htdocs, www, or public_html)
 ## Files
 
 ```
-database.sql     - Database dump (ready for phpMyAdmin import)
-config.php       - Database connection settings
+config.php       - Db connection settings
 login.php        - Admin login page
 auth.php         - Authentication handler
 logout.php       - Logout handler
@@ -61,9 +60,8 @@ view_user.php    - View user details
 add_user.php     - Add new user form
 edit_user.php    - Edit user form
 delete_user.php  - Delete user handler
-header.php       - Navigation menu
+header.php       - Nav menu
 style.css        - Dark theme styles
-README.md        - Installation instructions
 ```
 
 ## Features
