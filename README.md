@@ -14,7 +14,7 @@ Simple admin panel for managing users with dark theme.
 
 **Option A: phpMyAdmin**
 1. Open phpMyAdmin
-2. Create new database: `db_admint`
+2. Create new database: `db_admin`
 3. Select the database
 4. Click "Import" tab
 5. Choose `db_admin.sql` file
